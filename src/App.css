@@ -1,0 +1,236 @@
+.jjap-booru{
+	display:inline-block;
+	font-size:30px;
+	font-weight:bold;
+	color:#FFB900;
+
+	margin:10px;
+	margin-bottom:20px;
+}
+.jjap-booru:hover{
+	color:white;
+	text-shadow:#FFB900 0px 0px 5px;
+}
+.jjap-booru a{
+	color:#FFB900;
+}
+.jjap-booru a:hover{
+	color:white;
+}
+.counter{
+	color:#ffd769;
+	font-weight:bold;
+	font-size:15px;
+
+	margin-left:20px;
+}
+.notation{
+  float:right;
+  margin:10px;
+  color:#FFB900;
+}
+.NotFound-container{
+  background-color: #FFB900;
+  margin:10px;
+  padding:10px;
+  border-radius: 10px;
+}
+.searchbar{
+  display:flex;
+  margin:10px;
+  padding:5px;
+
+  height:25px;
+  border-radius: 10px;
+  background-color: #FFB900;
+}
+.searchbar input{
+  outline:none;
+  border-radius:10px;
+  border:1px solid #FFB900;
+
+  padding:1px;
+  width:80%;
+}
+.searchbar input:focus{
+  outline:2px solid #ff7b00;
+}
+.searchbtn{
+  height:25px;
+  vertical-align:middle;
+}
+.searchbtn label{
+  color:white;
+}
+.searchbtn input{
+  width:15px;
+  height:15px;
+
+  appearance:none;
+  border:#ff7b00 solid 1px;
+  background-color: white;
+}
+.searchbtn input:checked{
+  background-color:#ff7b00;
+  border:white solid 2px;
+	box-shadow:#FFB900 0px 0px 5px;
+}
+
+
+.illustrator-list{
+  display: grid;
+  grid-template-columns: 150px auto;
+  background-color: #FFB900;
+  margin:10px;
+  padding:10px;
+  border-radius:10px;
+}
+.illustrator-name:hover a{
+  color:#ffd769;
+}
+.illustrator-name a{
+  text-decoration: none;
+
+  font-size: 20px;
+  font-weight: bold;
+  color:white;
+}
+.illustrator-illust-length{
+  margin-left:10px;
+  font-size:15px;
+}
+.illustrator-tags{
+  padding-left:10px;
+  color:white;
+}
+.illustrator-tags div{
+  text-indent:5px;
+}
+.illustrator-tags div:hover{
+  color:#ffd769;
+}
+.R-18{
+  color:red;
+}
+.NSFW{
+  color:red;
+}
+.Scat{
+  color:brown;
+}
+.AI{
+  color:blue;
+}
+.illustrator-list-illust{
+  display: flex;
+  flex-direction: row;
+  overflow-x:overlay;
+}
+.illustrator-list-illust::-ms-scrollbar{
+  display: none;
+}
+.illustrator-list-illust::-webkit-scrollbar{
+  display: none;
+}
+.illustrator-preview{
+  max-height:200px;
+  margin:5px;
+}
+
+.illustrator-bio{
+  background-color: #FFB900;
+  margin:10px;
+  padding:10px;
+  border-radius: 10px;
+}
+.illustrator-name{
+  color:white;
+  padding-left:10px;
+}
+.zoom-btn{
+  float: right;
+  padding:5px;
+  text-align: center;
+  font-size:14px;
+  color:#FFB900;
+  background-color: white;
+  border-radius: 5px;
+  width:80px;
+  cursor:pointer;
+}
+.illustrator-bio-illust{
+  overflow:scroll;
+}
+.illustrator-bio-illust::-ms-scrollbar{
+  display: none;
+}
+.illustrator-bio-illust::-webkit-scrollbar{
+  display: none;
+}
+.illustrator-bio-illust div{
+  vertical-align: top;
+  display:inline-block;
+}
+.illustrator-bio-preview{
+  margin:5px;
+  position:relative;
+}
+.illustrator-bio-preview-player{
+  z-index: 1;
+  position:absolute;
+
+  margin-top:10px;
+  margin-left:10px;
+}
+.illustrator-bio-preview-player img{
+  height:50px;
+}
+.unzoomed{
+  max-height:300px;
+  max-width:98%;
+}
+.zoomed{
+  max-height:550px;
+  max-width:98%;
+}
+
+.illustrator-bio-icon{
+  display: flex;
+  margin-top:10px;
+  margin-left:5px;
+}
+.illustrator-bio-icon div{
+  margin:5px;
+}
+.illustrator-bio-icon img{
+  width:25px;
+}
+.illustrator-bio .hashtags{
+  margin:10px;
+}
+.illustrator-bio .hashtags div{
+  margin-right:10px;
+  color:white;
+  display:inline-block;
+}
+.illustrator-bio .hashtags .original_name{
+  color:#ff7b00;
+}
+.totop{
+  position:fixed;
+  right:20px;
+  bottom:20px;
+}
+.totop button{
+  width:100px;
+  height:25px;
+
+  border:none;
+  border-radius:5px;
+  background-color:#ff7b00;
+  color:white;
+  font-weight: bold;
+}
+.totop button:hover{
+  color:#FFB900;
+}

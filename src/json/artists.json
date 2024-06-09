@@ -1,0 +1,639 @@
+[
+    {
+        "artists_id":1, "name":"110", "pixiv":["2028695"],
+        "tags":["Fan Art", "Kagerou Project", "Hatsune Miku", "School Girl", "LD"]
+    },
+    {
+        "artists_id":2, "name":"Mitsu", "pixiv":["68839843"], "fanbox":"mitsu", "twitter":["MitsuArt_"], "instagram":"mitsuart.works", "facebook":"Natalia.Renault", "carrd":"mitsuart", "artstation":"mitsukai-inki", "patreon":"mitsu_art", "gumroad":"mitsuartofficial", "redbubble":"mitsu-art", "youtube":"@Mitsu_art", "twitch":"mitsuart", "homepage":"https://www.mitsuart.net/", "imdb":"nm5878659",
+        "tags":["NSFW", "Fan Art", "LD", "High Quality"]
+    },
+    {
+        "artists_id":3, "name":"Hoshiumi", "original_name":"ほしうみ", "pixiv":["121768"], "twitter":["hosiumix"],
+        "tags":["Fan Art", "Hololive", "Umamusume", "Blue Archieve", "LD", "Cute"]
+    },
+    {
+        "artists_id":4, "name":"Siyou", "pixiv":["9615262"], "twitter":["siyou5"],
+        "tags":["R-18", "Fan Art", "Kantai Collection", "Blue Archieve", "SD", "CG", "Cute", "Sex", "Hardcore"]
+    },
+    {
+        "artists_id":5, "name":"Ryan", "original_name":"收訊不良", "pixiv":["7459019"], "twitter":["tuesday_0221"], "facebook":"Ryan.Ryanart",
+        "tags":["Fan Art", "Blue Archieve", "LD"]
+    },
+    {
+        "artists_id":6, "name":"Karappo", "original_name":"空っぽ", "pixiv":["17265047"], "twitter":["karappo_irasuto", "karappo_nidaime"], "skeb":"karappo_irasuto", "fanbox":"j321ij9l",
+        "tags":["Fan Art", "Blue Archieve", "Manga", "LD", "Cute"]
+    },
+    {
+        "artists_id":7, "name":"Mochirong", "artstation":"mochirong", "pixiv":["6005584"], "twitter":["chirong559", "chirong19"], "fanbox":"mochirong", "fanding":"Mochirong", "chzzk":"fa39b430665e23c408820633dde17917",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "CG", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":8, "name":"Deaver", "original_name":"ディーバ", "pixiv":["29999491"], "twitter":["Deaver1229"], "fanbox":"deaver0211", "patreon":"Deaver1104", "fanding":"Deaver1229", "melonbooks":"113368",
+        "tags":["NSFW", "Fan Art", "Hololive", "Girls' Frontline", "Arknights", "Cute"]
+    },
+    {
+        "artists_id":9, "name":"Fukuro", "original_name":"袋子", "pixiv":["4588267"], "twitter":["hachifukuDZ"], "lit_link":"fukuro56", "weibo":"lvchadedaizi", "instagram":"hachifukudz", "patreon":"hachifukuDZ", "fanbox":"fukuro", "fantia":"423346",
+        "tags":["NSFW", "Fan Art", "Honkai : Starail", "Genshin Impact", "Cute", "High Quality", "LD"]
+    },
+    {
+        "artists_id":10, "name":"EKOR", "pixiv":["78229564"], "twitter":["rOKe43944001"], "fanbox":"ekor2", "skeb":"rOKe43944001", "fantia":"345314",
+        "tags":["R-18", "Fan Art", "Hololive", "LD", "CG", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":11, "name":"Makarony", "pixiv":["19562793"], "twitter":["Makarony69"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Last Origin", "The Idolm@ster : Cinderella Girls", "LD", "High Quality", "Korean"]
+    },
+    {
+        "artists_id":12, "name":"TD", "pixiv":["4532699"], "twitter":["Tandeom_97"], "facebook":"Tandeom97",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "The Idolm@ster : Shiny Colors", "LD", "High Quality"]
+    },
+    {
+        "artists_id":13, "name":"Tinia", "pixiv":["16148853"], "twitter":["EtruTinia"],
+        "tags":["Fan Art", "Blue Archieve", "SD", "Pixel"]
+    },
+    {
+        "artists_id":14, "name":"Mogun", "original_name":"モ誰", "pixiv":["1878082"], "twitter":["jeonghee1414"], "fanbox":"modare", "twitch":"mogoon14", "melonbooks":"48463", "coloso":"illustrator_mogoon",
+        "tags":["Fan Art", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":15, "name":"Monthmio", "pixiv":["31909437"],
+        "tags":["AI", "NSFW", "Fan Art", "Blue Archieve", "Genshin Impact", "LD", "High Quality"]
+    },
+    {
+        "artists_id":16, "name":"MOKEW", "pixiv":["16131171"], "fanbox":"mokew", "twitter":["Mokew_"], "naver_cafe":"feveraca",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":17, "name":"tokki2929", "original_name":"솜털토끼", "pixiv":["16131171"], "twitter":["tokki2929"],
+        "tags":["Fan Art", "Blue Archieve", "SD", "Pastel", "Korean", "Manga"]
+    },
+    {
+        "artists_id":18, "name":"heunheun", "original_name":"헌헌", "pixiv":["34515609"], "twitter":["Catch0152"],
+        "tags":["Fan Art", "Blue Archieve", "Maple Story", "LD", "Korean", "Manga"]
+    },
+    {
+        "artists_id":19, "name":"Lansane", "original_name":"ランサネ", "pixiv":["4007933"], "twitter":["lalansane"], "tumblr":"lansane", "instagram":"la_lansane", "threads":"la_lansane", "skeb":"lalansane", "fanbox":"lansane", "bluesky":"lalansane",
+        "tags":["LD", "High Quality", "Monster Girl"]
+    },
+    {
+        "artists_id":20, "name":"PeepoRose", "twitter":["peepo_rose"],
+        "tags":["AI", "Fan Art", "Amamiya Kokoro", "Vtuber", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":21, "name":"Nueong", "original_name":"누엉", "pixiv":["37219059"], "twitter":["Nu_eong"],
+        "tags":["Fan Art", "Blue Archieve", "Maple Story", "SD", "Korean", "Manga"]
+    },
+    {
+        "artists_id":22, "name":"DL", "pixiv":["16755624"], "twitter":["DL_6ix", "__De_la"],
+        "tags":["Fan Art", "Genshin Impact", "Blue Archieve", "Alchemy Star", "LD", "High Quality", "School Girl"]
+    },
+    {
+        "artists_id":23, "name":"Measho", "pixiv":["17125098"], "twitter":["Measho_198"], "weibo":"u/6588175876",
+        "tags":["Fan Art", "Blue Archieve", "Touhou Project", "SD", "Cute", "Loli"]
+    },
+    {
+        "artists_id":24, "name":"Chika", "original_name":"千花", "pixiv":["66624863"], "twitter":["Kiyoshishiroco"], "skeb":"chika",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "SD", "Cute", "Loli"]
+    },
+    {
+        "artists_id":25, "name":"Shigeta", "original_name":"しげた", "pixiv":["58071993"], "twitter":["yankeehamama"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Mikamo Neru", "LD", "Cute", "Loli", "High Quality"]
+    },
+    {
+        "artists_id":26, "name":"Rumi", "original_name":"ルミ", "pixiv":["13321374"], "twitter":["RUMI_519"],
+        "tags":["Fan Art", "Blue Archieve", "Vtuber", "SD", "Cute"]
+    },
+    {
+        "artists_id":27, "name":"Molang Villain", "original_name":"몰랑빌런", "pixiv":["22604213"], "twitter":["RUMI_519"],
+        "tags":["R-18", "Fan Art", "Soul Worker", "Sedurin", "SD", "Cute"]
+    },
+    {
+        "artists_id":28, "name":"MUCU", "pixiv":["65017919"], "twitter":["iby0112"],
+        "tags":["NSFW", "Fan Art", "Genshin Impact", "Blue Archieve", "Nahida", "Cute", "Out Of Character", "Korean"]
+    },
+    {
+        "artists_id":29, "name":"HUE", "homepage":"https://ogqmarket.naver.com/creators/HUE", "twitter":["hue_oo_"],
+        "tags":["Fan Art", "Genshin Impact", "Work", "Cute", "Korean", "Emoticon"]
+    },
+    {
+        "artists_id":30, "name":"Maett", "pixiv":["11668466"], "twitter":["maett_a"],
+        "tags":["NSFW", "Fan Art", "Counter : Side", "Work", "LD", "High Quality", "Korean"]
+    },
+    {
+        "artists_id":31, "name":"Blacha", "pixiv":["5446150"],
+        "tags":["NSFW", "Fan Art", "Counter : Side", "LD", "High Quality", "Korean", "Manga"]
+    },
+    {
+        "artists_id":32, "name":"NO1", "pixiv":["44444041"], "twitter":["noixen"],
+        "tags":["NSFW", "Fan Art", "Vtuber", "Hololive", "Blue Archieve", "Work", "LD", "High Quality"]
+    },
+    {
+        "artists_id":33, "name":"ZL100", "pixiv":["81063709"], "twitter":["zlwork100"],
+        "tags":["Fan Art", "Counter : Side", "Official", "LD"]
+    },
+    {
+        "artists_id":34, "name":"Windy", "pixiv":["1510017"], "twitter":["jazz9207"], "naver_blog":"windyjazz",
+        "tags":["Fan Art", "Counter : Side", "Official", "LD", "Manga"]
+    },
+    {
+        "artists_id":35, "name":"ELze", "pixiv":["11626448"], "twitter":["ELze1011"],
+        "tags":["R-18", "Fan Art", "Counter : Side", "Blue Archieve", "Closers", "Sex", "Korean", "High Quality"]
+    },
+    {
+        "artists_id":36, "name":"SyHan", "pixiv":["12505972"], "twitter":["SyHan__"], "fanbox":"syhan", "chzzk":"81b7bd1cd69ebc564890637698cd546f",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Yurizono Seiya", "LD", "Loli", "High Quality"]
+    },
+    {
+        "artists_id":37, "name":"KOYA", "pixiv":["34606934"], "twitter":["KOYA_1001"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Umamusume", "Hololive", "SD", "Loli", "Cute"]
+    },
+    {
+        "artists_id":38, "name":"Koyap", "pixiv":["80129746"], "twitter":["ko_koyap"], "patreon":"kopam", "fanbox":"kopam",
+        "tags":["NSFW", "Fan Art", "My Hero Academia", "Miruko", "LD", "CG", "High Quality"]
+    },
+    {
+        "artists_id":39, "name":"Nekoya", "original_name":"ネコヤ", "pixiv":["4119858"], "twitter":["Nekodayo_22"], "facebook":"Nekodayo22", "instagram":"nekodayo22", "carrd":"nekoya22", "linktr":"nekoya22", "artstation":"nekodayo22", "deviantart":"nekodayo22", "twitch":"nekodayo22", "homepage":"https://bishoujocomplex.com/",
+        "tags":["NSFW", "Fan Art", "Request", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":40, "name":"Nekoya", "original_name":"猫屋", "pixiv":["16785244"], "twitter":["nekoyaliu"], "patreon":"nekoyaliu", "fanbox":"nekoyaliu", "facebook":"nekoyaliu",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "Cute", "High Quality"]
+    },
+    {
+        "artists_id":41, "name":"Zds", "pixiv":["14094820"], "fanbox":"zds",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "Cute", "High Quality"]
+    },
+    {
+        "artists_id":42, "name":"Chowbie", "pixiv":["13463954"], "twitter":["Chowbie_"], "facebook":"ChowbieArt", "instagram":"chowbie_art", "threads":"chowbie_art", "steam":"44735214", "foundation":"Chowbie",
+        "tags":["NSFW", "NFT", "LD", "High Quality", "Pastel"]
+    },
+    {
+        "artists_id":43, "name":"Kenkou Mineral", "original_name":"健康ミネラル", "pixiv":["93490571"], "twitter":["kenkoumineral55"], "fanbox":"kenkoumineral55", "skeb":"kenkoumineral55",
+        "tags":["R-18", "Fan Art", "Vtuber", "Nijisanji", "SD", "CG", "Sex", "Cute"]
+    },
+    {
+        "artists_id":44, "name":"Hiroi Sora", "original_name":"ひろい空", "pixiv":["6106598"], "twitter":["svisinivs"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Hololive", "SD", "Cute"]
+    },
+    {
+        "artists_id":45, "name":"Darang9", "pixiv":["36288535"], "twitter":["Daran_9"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Misono Mika", "LD", "High Quality"]
+    },
+    {
+        "artists_id":46, "name":"Mong", "pixiv":["78367046"], "twitter":["hyem0ng"],
+        "tags":["Fan Art", "Blue Archieve", "Thumbnailer", "Work", "SD", "Cute"]
+    },
+    {
+        "artists_id":47, "name":"Horu", "original_name":"호르", "pixiv":["71667864"], "twitter":["horuhara"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "SD", "Pastel", "Cute", "Emoticon"]
+    },
+    {
+        "artists_id":48, "name":"Flasso", "pixiv":["1695367"], "twitter":["JpFlasso"], "youtube":"Flasso", "twitch":"flasso",
+        "tags":["NSFW", "Fan Art", "Honkai : Starail", "Blue Archieve", "LD", "Cute"]
+    },
+    {
+        "artists_id":49, "name":"Orekh Janguo", "pixiv":["61482618"], "twitter":["Orekh_JanGuo"],
+        "tags":["NSFW", "Fan Art", "Arknights", "Blue Archieve", "LD", "Pastel"]
+    },
+    {
+        "artists_id":50, "name":"Mollra", "pixiv":["15275191"], "twitter":["mollray1548"],
+        "tags":["Fan Art", "Blue Archieve", "LD", "Cute"]
+    },
+    {
+        "artists_id":51, "name":"RicKe", "pixiv":["75603323"], "twitter":["RicKe_1102", "RicKe_second"],
+        "tags":["Fan Art", "Blue Archieve", "Umamusume", "SD", "High Quality", "Cute"]
+    },
+    {
+        "artists_id":52, "name":"KJI", "pixiv":["74523730"], "twitter":["apexhiru"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":53, "name":"SushiSpin", "pixiv":["8423651"], "twitter":["Sushispin_"], "artstation":"ro-ahn",
+        "tags":["Original", "Fan Art", "Blue Archieve", "Limbus Company", "LD", "High Quality"]
+    },
+    {
+        "artists_id":54, "name":"Mask", "original_name":"😷", "pixiv":["84325201"], 
+        "tags":["R-18", "Fan Art", "Arknights", "Exusiai", "LD", "Chinese", "Sex", "Hardcore", "Violence"]
+    },
+    {
+        "artists_id":55, "name":"Chiyo Akira", "original_name":"千代明Kira", "pixiv":["64206294"], "twitter":["KKira634"],
+        "tags":["Fan Art", "Blue Archieve", "Genshin Impact", "LD", "High Quality", "Cute"]
+    },
+    {
+        "artists_id":56, "name":"Poge-", "original_name":"ぽげー", "pixiv":["74937746"], "twitter":["pogeepogee"],
+        "tags":["Fan Art", "Blue Archieve", "LD", "Cute"]
+    },
+    {
+        "artists_id":57, "name":"Mela", "pixiv":["50337529"], "twitter":["mela0658"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Original", "LD", "High Quality", "Background"]
+    },
+    {
+        "artists_id":58, "name":"Chibi", "original_name":"치비", "twitter":["chibiya1010"],
+        "tags":["NSFW", "Fan Art", "Bang! Dream", "Project Sekai", "Honkai : Starail", "LD", "High Quality", "Yuri", "Onee-san"]
+    },
+    {
+        "artists_id":59, "name":"Hioyami", "pixiv":["38528889"], "twitter":["hioyami02"], "patreon":"hioyami",
+        "tags":["NSFW", "Fan Art", "LD", "Onee-san", "Inner Wear"]
+    },
+    {
+        "artists_id":60, "name":"Yan-Yam@", "pixiv":["2682698"], "twitter":["yan_yam"], "fantia":"69612", "fanbox":"yan-yam", "homepage":"https://yan-yam.com/",
+        "tags":["R-18", "Fan Art", "SD", "Manga", "Sex"]
+    },
+    {
+        "artists_id":61, "name":"Yamasan", "pixiv":["346855"], "twitter":["yamasaning"], "fantia":"13257", "fanbox":"yamasan", "instagram":"yamasandayomon", "booth":"yamasan",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Manga", "Sex"]
+    },
+    {
+        "artists_id":62, "name":"Yampa", "pixiv":["8045536"], "twitter":["yampaham"], "fanbox":"yampaham", "patreon":"21478536", "fantia":"40592",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "High Quality", "CG", "Colorful", "Onee-san", "Sex"]
+    },
+    {
+        "artists_id":63, "name":"Yam", "twitter":["yamaP_mako"], "fanbox":"yampaham", "skeb":"yamaP_mako", "formrun":"yamako-am-Utf3ROEATqmAALQL44pr", "misskey":"yamaP_mako", "skima":"53447", "foriio":"yamaP",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Onee-san", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":64, "name":"HasaRang", "pixiv":["14980274"], "twitter":["Hasa_Rang"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Korean", "LD", "Cute"]
+    },
+    {
+        "artists_id":65, "name":"Mt_Kid", "pixiv":["21087794"], "twitter":["BigMt_Kid"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "SD", "Cute"]
+    },
+    {
+        "artists_id":66, "name":"Colamimi", "original_name":"可乐米mi", "pixiv":["22334948"], "weibo":"6896859363", "bilibili":"13598089",
+        "tags":["NSFW", "Fan Art", "SD", "Pastel"]
+    },
+    {
+        "artists_id":67, "name":"Bague", "original_name":"ばぐえ、", "pixiv":["729696"], "twitter":["bague05"], "skeb":"bague05", "booth":"vitalarea", "melonbooks":"14376", "dlsite":"RG14706", "homepage":"http://vitalarea472.blog104.fc2.com/",
+        "tags":["Fan Art", "Umamusume", "Manga", "Japanese", "SD", "Cute"]
+    },
+    {
+        "artists_id":68, "name":"Iblion", "original_name":"イブリオン", "pixiv":["6491712"], "twitter":["lioniblis"], "fanbox":"iblion", "bluesky":"lioniblis", "misskey":"lioniblis",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":69, "name":"Uno Ryoko", "original_name":"温野りょく", "pixiv":["8089358"], "twitter":["UnoRyoku"], "fanbox":"UnoRyoku", "fantia":"5920", "skeb":"UnoRyoku", "melonbooks":"35682",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Vtuber", "LD", "High Quality", "Manga", "Sex"]
+    },
+    {
+        "artists_id":70, "name":"Fring", "twitter":["AIart_Fring"],
+        "tags":["AI", "NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":71, "name":"Kirii Nao", "original_name":"桐井ナオ", "pixiv":["1871124"], "twitter":["nao_kirii"], "fanbox":"nao-kirii", "booth":"nao-kirii",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "SD", "Cute", "Manga"]
+    },
+    {
+        "artists_id":72, "name":"Crowna", "original_name":"クローナ", "pixiv":["90932536"], "twitter":["CrownaRed"], "lit_link":"crowna", "patreon":"Crowna", "fanbox":"crowna", "threads":"crowna77",
+        "tags":["AI", "Fan Art", "Blue Archieve", "High Quality"]
+    },
+    {
+        "artists_id":73, "name":"Nakatashio", "original_name":"中田塩", "pixiv":["3708450"], "twitter":["LhSPtQbsDdvslJ3"], "skeb":"nakatasio", "misskey":"nakatasio",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Sketch", "LD", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":74, "name":"Asahi Nagiri", "original_name":"朝比奈 吉利", "pixiv":["9448719"], "twitter":["Hightway_420_v2", "guman_project"], "misskey":"Hightway_420", "fanbox":"hightway-420", "gumroad":"hightway420", "youtube":"jerrylov29", "twitch":"jerrylov29", "facebook":"jerrylov29", "homepage":"https://hightway-420.weebly.com/home.html",
+        "plurk":"jerrylov29", "htoh":"hightway420",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Sketch", "Chinese", "LD", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":75, "name":"Yonchan", "original_name":"Yonchan°", "pixiv":["72405030"], "twitter":["yonminchan"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "High Quality", "Colorful", "LD"]
+    },
+    {
+        "artists_id":76, "name":"Yuria", "pixiv":["43775890"], "twitter":["Yuria_Apo"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "High Quality", "Achromatic", "LD"]
+    },
+    {
+        "artists_id":77, "name":"SydusArts", "pixiv":["5235833"], "twitter":["SydusArts"], "patreon":"sydusarts", "fanbox":"sydusarts", "gumroad":"sydusarts", "facebook":"SydusArts", "instagram":"sydusarts", "subscribestar":"sydusarts",
+        "tags":["NSFW", "Fan Art", "Sousou no Frieren", "High Quality", "LD"]
+    },
+    {
+        "artists_id":78, "name":"Siann", "original_name":"시안ㄴ", "twitter":["iisa111111"], "asked":"Sian_n",
+        "tags":["Fan Art", "Blue Archieve", "SD", "Cute", "Real Background"]
+    },
+    {
+        "artists_id":79, "name":"Raay", "pixiv":["13448405"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "Loli"]
+    },
+    {
+        "artists_id":80, "name":"Dabbi", "original_name":"다삐", "pixiv":["14815057"], "twitter":["woony118"],
+        "tags":["Fan Art", "Blue Archieve", "Benriya 68", "Watercolor", "LD", "High Quality", "High Quality Background"]
+    },
+    {
+        "artists_id":81, "name":"Midori", "original_name":"米豆綠Midori", "twitter":["Midori_fufu"],
+        "tags":["Fan Art", "Hololive", "Blue Archieve", "LD", "High Quality"]
+    },
+    {
+        "artists_id":82, "name":"Hagoonha", "original_name":"하군하", "pixiv":["37929892"], "twitter":["hagoonha"],
+        "tags":["Fan Art", "Blue Archieve", "Thumbnailer", "SD", "Cute"]
+    },
+    {
+        "artists_id":83, "name":"Nyong_Nyong", "pixiv":["14120806"], "twitter":["BigNyongNyong"], "fanbox":"bignyongnyong",
+        "tags":["R-18", "SD", "Cute", "Monster Girl", "Busty", "Sex"]
+    },
+    {
+        "artists_id":84, "name":"HQ", "original_name":"ねこはねる", "twitter":["8quuu_"],
+        "tags":["Fan Art", "Blue Archieve", "High Quality", "Pastel", "SD"]
+    },
+    {
+        "artists_id":85, "name":"Dammit", "pixiv":["23202241"],
+        "tags":["R-18", "Original", "SD", "Cute", "Naked", "Busty"]
+    },
+    {
+        "artists_id":86, "name":"Sicle", "pixiv":["20988156"], "twitter":["lu_sicle"],
+        "tags":["Fan Art", "Honkai : Starail", "Genshin Impact", "LD"]
+    },
+    {
+        "artists_id":87, "name":"ꓘ", "pixiv":["87833216"], "twitter":["pendingname7777", "nkmmktwt"],
+        "tags":["Fan Art", "Hololive", "Nanashi Mumei", "LD", "Cute"]
+    },
+    {
+        "artists_id":88, "name":"OHA", "artstation":"oha_jhk", "twitter":["OHA_JHK"], "instagram":"oha_jhk",
+        "tags":["Concept Art", "High Quality", "High Quality Background", "Korean"]
+    },
+    {
+        "artists_id":89, "name":"Seo", "pixiv":["50813524"], "twitter":["seosenseisan"],
+        "tags":["Original", "Fan Art", "High Quality", "Colorful", "LD"]
+    },
+    {
+        "artists_id":90, "name":"Rity", "original_name":"リティ", "pixiv":["23567350"], "twitter":["k_rity"], "instagram":"k_rity04", "youtube":"k_rity", "twitch":"k_rity", "linktr":"trinity0404", "artstation":"rity_k", "threads":"k_rity04",
+        "tags":["Fan Art", "Honkai : Starail", "Genshin Impact", "High Quality", "LD"]
+    },
+    {
+        "artists_id":91, "name":"RadioNeet", "original_name":"ラジオNEET", "pixiv":["5621747"], "twitter":["radioneet"], "patreon":"radioneet",
+        "tags":["NSFW", "Fan Art", "Arknights", "High Quality", "LD", "Busty"]
+    },
+    {
+        "artists_id":92, "name":"Kadono", "original_name":"かどの", "pixiv":["21153417"], "twitter":["kadokadokado14"],
+        "tags":["NSFW", "Fan Art", "Genshin Impact", "High Quality", "LD"]
+    },
+    {
+        "artists_id":93, "name":"Jaws", "pixiv":["13081441"], "twitter":["XfThIP0TwRa0GM2"], "naver_blog":"okdol0928",
+        "tags":["Fan Art", "Blue Archieve", "High Quality", "LD", "Colorful"]
+    },
+    {
+        "artists_id":94, "name":"Shuri", "original_name":"朱里", "tumblr":"ebiebieshrimp", "twitter":["ebiebieshrimp"], "fanbox":"ebiebieshrimp",
+        "tags":["NSFW", "Fan Art", "Mother of Vtuber", "Hololive", "Legend of Zelda", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":95, "name":"Ziu", "original_name":"ぢう", "pixiv":["102967477"], "twitter":["7vUKaVNSQz48026"], "fanbox":"diu131", "skeb":"7vUKaVNSQz48026", "misskey":"diu13131",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Loli", "SD", "Colorful"]
+    },
+    {
+        "artists_id":96, "name":"Roha", "pixiv":["14561023"], "twitter":["R_o_ha"], "naver_cafe":"rohaacademy",
+        "tags":["Fan Art", "LD", "High Quality", "Cute"]
+    },
+    {
+        "artists_id":97, "name":"Yohaku", "pixiv":["16331597"], "twitter":["YH_0w0", "Delt_Aca"], "naver_cafe":"delt",
+        "tags":["Concept Art", "Fan Art", "LD", "High Quality", "High Quality Background", "Colorful"]
+    },
+    {
+        "artists_id":98, "name":"Poharo", "pixiv":["15459635"], "twitter":["poharo119"], "fanbox":"poharo", "patreon":"27095829",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Tsukatsuki Rio", "LD", "CG", "High Quality", "Colorful", "Busty", "Sex"]
+    },
+    {
+        "artists_id":99, "name":"Kinohara", "pixiv":["2065594"], "twitter":["kinoharakossuta", "kiwihana18"], "facebook":"kinohara.nguyen", "fanbox":"kiwihana", "linktr":"kinohara", "gumroad":"kinoharakossuta",
+        "tags":["R-18", "Fan Art", "Genshin Impact", "LD", "High Quality", "Deformer", "Muscle Girl", "Busty", "Out Of Character"]
+    },
+    {
+        "artists_id":100, "name":"Mohaka", "original_name":"모하카", "pixiv":["40485300"], "twitter":["M_0haka"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality", "Busty"]
+    },
+    {
+        "artists_id":101, "name":"DoHam", "pixiv":["50278663"], "twitter":["_DoHam"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Genshin Impact", "LD", "High Quality", "Busty"]
+    },
+    {
+        "artists_id":102, "name":"Nanohana", "original_name":"菜花", "pixiv":["29724874"], "twitter":["nanohana_186"],
+        "tags":["Fan Art", "Vtuber", "A-Soul", "Blue Archieve", "High Quality", "Colorful", "LD"]
+    },
+    {
+        "artists_id":103, "name":"Nocras", "original_name":"菜花", "pixiv":["8103614"], "twitter":["nocras666"], "tumblr":"nocras666",
+        "tags":["Concept Art", "Fan Art", "Blue Archieve", "Pastel", "SD", "Colorful"]
+    },
+    {
+        "artists_id":104, "name":"Rynn", "pixiv":["12724472"], "twitter":["r_ynn_07"], "instagram":"Rynn_art",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Mizuha Mimori", "Colorful", "LD"]
+    },
+    {
+        "artists_id":105, "name":"Madai", "original_name":"まだい", "pixiv":["24884800"], "twitter":["Mappy88829851"], "skeb":"Mappy88829851", "fanbox":"orihal-iam",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Hololive", "SD", "Cute", "Loli"]
+    },
+    {
+        "artists_id":106, "name":"Eternals", "twitter":["eternals"], "carrd":"eternal-s", "instagram":"_eternals", "inprnt":"eternal-s", "etsy":"EternalSArtworks", "ko_fi":"eternals", "vgen":"Eternals",
+        "tags":["Fan Art", "Hololive", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":107, "name":"Pora", "pixiv":["45041393"], "twitter":["PORA_0_"], "instagram":"pora_0_", "linktr":"PORA",
+        "tags":["Fan Art", "Vtuber", "Honkai : Starail", "Genshin Impact", "High Quality", "High Quality Background", "LD"]
+    },
+    {
+        "artists_id":108, "name":"Kokemomo", "original_name":"こけもも", "pixiv":["1472682"], "twitter":["lingonberry67"], "fanbox":"lingonberry67", "fantia":"235356", "skeb":"lingonberry67",
+        "tags":["R-18", "Fan Art", "Hololive", "High Quality", "LD", "Colorful", "Sex"]
+    },
+    {
+        "artists_id":109, "name":"CryBaby", "original_name":"クライベビー", "pixiv":["72563115"], "twitter":["whammy2crybaby4"], "fanbox":"whammtrybaby2", "gumroad":"whammy2crybaby",
+        "tags":["R-18", "Fan Art", "SD", "CG", "Loli", "Sex", "Hardcore"]
+    },
+    {
+        "artists_id":110, "name":"Pixy", "original_name":"ピクシー", "pixiv":["31869137"], "twitter":["pixy1234567891"], "fanbox":"pixy", "patreon":"pixy123",
+        "tags":["R-18", "Fan Art", "LD", "CG", "High Quality", "Scat", "Sex", "Hardcore"]
+    },
+    {
+        "artists_id":111, "name":"95", "pixiv":["21764204"], "twitter":["jiuwujiang"],
+        "tags":["NSFW", "Fan Art", "Fate/Grand Order", "Sousou no Frieren", "High Quality", "Colorful", "LD"]
+    },
+    {
+        "artists_id":112, "name":"LightningACE", "pixiv":["101732131"], "twitter":["P38LightningACE"],
+        "tags":["Fan Art", "Blue Archieve", "Line Drawing", "High Quality", "Manga", "Military", "Out Of Character"]
+    },
+    {
+        "artists_id":113, "name":"Nisanka Huton", "original_name":"二酸化布団", "pixiv":["20225764"], "twitter":["OfutonO2"], "fanbox":"oftono2", "skeb":"OfutonO2", "melonbooks":"116748", "dlsite":"maniax/RG01000820",
+        "tags":["R-18", "Hololive", "Manga", "CG", "LD", "Sex"]
+    },
+    {
+        "artists_id":114, "name":"Zeramu", "original_name":"ぜらむ", "pixiv":["2735979"],
+        "tags":["R-18", "Hololive", "CG", "LD", "Colorful", "Sex"]
+    },
+    {
+        "artists_id":115, "name":"Mo", "pixiv":["27203661"], "twitter":["mo80_rr", "submo840041"],
+        "tags":["NSFW", "Fan Art", "Genshin Impact", "Live2D", "LD", "Colorful", "High Quality"]
+    },
+    {
+        "artists_id":116, "name":"Ika", "pixiv":["4801055"], "twitter":["ika8203", "ika0428"],
+        "tags":["Fan Art", "Work", "Blue Archieve", "Stellive", "Cute", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":117, "name":"Cticket", "pixiv":["24092314"],
+        "tags":["NSFW", "Fan Art", "Original", "LD", "High Quality", "Cute", "Colorful", "Busty"]
+    },
+    {
+        "artists_id":118, "name":"Hollyeung", "original_name":"홀령", "pixiv":["16883982"], "twitter":["Hollyeung100"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Manga", "Korean", "SD", "Cute"]
+    },
+    {
+        "artists_id":119, "name":"Moramora", "original_name":"モラモラ", "pixiv":["13629236"], "twitter":["tea19990208"], "facebook":"MOLAMOLAComics",
+        "tags":["Fan Art", "Umamusume", "LD", "Cute", "High Quality", "Manga"]
+    },
+    {
+        "artists_id":120, "name":"Applepi2", "twitter":["appl2pi2_"], "arcalive":"ㅇㅇ/98121419",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "SD", "Cute", "Sketch"]
+    },
+    {
+        "artists_id":121, "name":"Kukaracho", "original_name":"クカラチョ", "pixiv":["12965411"], "twitter":["kukaracho789"], "fanbox":"kukaracho", "misskey":"qkracho", "facebook":"cuckarachita", "gumroad":"kukaracho",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "SD", "Cute", "Loli", "Sex", "Pregnant"]
+    },
+    {
+        "artists_id":122, "name":"DDungDDang", "original_name":"뚱땅", "pixiv":["45562411"], "twitter":["ddungddang102", "ddung_commi"], "linktr":"dyomdyom", "naver_blog":"dyomdyom", "artmug":"ZHlvbWR5b20", "twitch":"ddungddang102",
+        "tags":["Original Character", "Fan Art", "Blue Archieve", "Hololive", "Isegye Idol", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":123, "name":"Mabufuyo", "pixiv":["92124400"], "twitter":["mabufuyo"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Simple", "LD", "Out Of Character", "Busty"]
+    },
+    {
+        "artists_id":124, "name":"Takutaku", "original_name":"たくたく", "pixiv":["82990980"], "twitter":["takutaku12364"], "misskey":"takutaku154", "skeb":"takutaku", "fanbox":"takutaku-h", "fantia":"430497",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "Genshin Impact", "High Quality", "Manga", "Sex"]
+    },
+    {
+        "artists_id":125, "name":"Kuroae San", "original_name":"黒和サン", "pixiv":["17441693"], "twitter":["SANsan_san321"], "misskey":"SANsan_san321", "melonbooks":"113228", "fanbox":"sansan3", "lit_link":"kurowasan3",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Amau Ako", "High Quality", "Colorful", "Manga"]
+    },
+    {
+        "artists_id":126, "name":"Lulu", "original_name":"ルルー", "pixiv":["9544086"], "twitter":["lulu8930430"], "youtube":"llulu8930",
+        "tags":["Fan Art", "Genshin Impact", "Navia", "Neuvillette", "Oil Paint", "Colorful", "High Quality Background", "High Quality"]
+    },
+    {
+        "artists_id":127, "name":"Fried Bocky", "pixiv":["92618012"], "twitter":["FriedBocky", "friedbockyR18"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "SD", "Colorful", "High Quality", "Busty", "Sex"]
+    },
+    {
+        "artists_id":128, "name":"Mitsukan", "original_name":"みつかん", "twitter":["natsu08kankitsu"],
+        "tags":["NSFW", "Fan Art", "Sousou no Frieren", "Ubel", "LD", "High Quality", "Colorful", "Out Of Character"]
+    },
+    {
+        "artists_id":129, "name":"Pukarara", "original_name":"プカララ", "pixiv":["14093123"], "twitter":["abcd0936", "gnk4649"], "skeb":"gnk4649", "fanbox":"pukarara", "pinterest":"gnk4649", "misskey":"gnk0936", "fantia":"6564", "privatter":"gnk4649",
+        "tags":["R-18", "Fan Art", "Vtuber", "Hololive", "LD", "High Quality", "Colorful", "Group Sex", "Sex"]
+    },
+    {
+        "artists_id":130, "name":"Mecha Neruko", "original_name":"芽茶ねるこ", "pixiv":["83856701"], "twitter":["abcd0936", "gnk4649"], "fantia":"479558", "booth":"midorikawa0", "fanbox":"midorikawa", "ci_en":"21762",
+        "tags":["R-18", "Fan Art", "Original Character", "Hololive", "Manga", "LD", "Simple", "Sex", "Netorare", "SNS", "Messenger"]
+    },
+    {
+        "artists_id":131, "name":"Oni Narasu", "original_name":"鬼鳴らす", "pixiv":["1284629"],
+        "tags":["R-18", "Fan Art", "Hololive", "Simple", "LD", "Sex"]
+    },
+    {
+        "artists_id":132, "name":"Tkc", "original_name":"てぃけし", "pixiv":["32396925"], "twitter":["tkc_thikeshi", "Tkc_nitijo"], "fanbox":"thikeshi", "bluesky":"thikec", "potofu":"tkc-thikeshi",
+        "tags":["R-18", "Fan Art", "Hololive", "Nekomata Okayu", "SD", "High Quality", "Manga", "Sex"]
+    },
+    {
+        "artists_id":133, "name":"Kirara Hoshiyama", "original_name":"キララ星山", "pixiv":["91668288"], "twitter":["mametya_kuror18", "krrstarmountain", "mmkirara"], "lit_link":"kirarasutamau", "skeb":"mametya_kuror18", "fanbox":"mametyakuror18", "misskey":"mametya_kuror18", "fantia":"506366", "profcard":"2qKM4gFMlSXHy4dM5xT3CrMoesg1",
+        "tags":["R-18", "Fan Art", "Vtuber", "LD", "Colorful", "High Quality", "Sex", "Manga"]
+    },
+    {
+        "artists_id":134, "name":"DayDream", "pixiv":["4733455"], "twitter":["DayDream0321"],
+        "tags":["R-18", "Original Character", "High Quality", "Colorful", "LD", "Cute", "Busty", "Sex"]
+    },
+    {
+        "artists_id":135, "name":"Haruru", "pixiv":["81907800"], "twitter":["1218_haruru"],
+        "tags":["NSFW", "Fan Art", "NIKKE : The Goddess of Victory", "Blue Archieve", "Vtuber", "High Quality", "Colorful", "LD", "Cute"]
+    },
+    {
+        "artists_id":136, "name":"Oosaka", "original_name":"大阪", "pixiv":["58831403"], "twitter":["sen_sakasa"], "skeb":"sen_sakasa",
+        "tags":["R-18", "Fan Art", "The Idolm@ster : Cinderella Girls", "High Quality", "LD", "Manga", "Sex", "Rape", "Crying"]
+    },
+    {
+        "artists_id":137, "name":"Potato Tacos", "original_name":"ポテトタコス", "pixiv":["32048455"],
+        "tags":["Fan Art", "Girls' Frontline", "High Quality", "Colorful", "LD", "Cute"]
+    },
+    {
+        "artists_id":138, "name":"YYDAP", "original_name":"飯田ポテト", "pixiv":["67715280"], "twitter":["potatoyyda", "YYDAPxxx"], "skeb":"potatoiida", "fantia":"6200",
+        "tags":["Original", "Realistic", "LD", "Manga", "Sex"]
+    },
+    {
+        "artists_id":139, "name":"Potato", "original_name":"ポテト", "pixiv":["67715280"], "twitter":["potato7192"],
+        "tags":["Fan Art", "Hololive", "SD", "High Quality", "Dot", "Simple"]
+    },
+    {
+        "artists_id":140, "name":"DIno", "pixiv":["66807813"], "twitter":["Dino_illus"],
+        "tags":["NSFW", "Fan Art", "Sousou no Frieren", "LD", "High Quality", "Realistic"]
+    },
+    {
+        "artists_id":141, "name":"Shiwashi Seika", "original_name":"しわし青果", "pixiv":["2846382"], "twitter":["Dino_illus"], "skeb":"shiwashiseika", "misskey":"shiwashiseika", "fantia":"75392", "fanbox":"shiwashiseika", "dlsite":"RG57804",
+        "tags":["R-18", "Fan Art", "Original Character", "Simple", "Manga", "Gray Scale", "Rape", "Sex"]
+    },
+    {
+        "artists_id":142, "name":"Ziro", "pixiv":["18526605"], "twitter":["zirorong"], "fanbox":"ziro",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Vtuber", "LD", "Colorful", "Onee-san"]
+    },
+    {
+        "artists_id":143, "name":"Hanakuma", "pixiv":["78424262"], "twitter":["Hana21376"], "fanbox":"hanakuma",
+        "tags":["Fan Art", "Blue Archieve", "SD", "Colorful"]
+    },
+    {
+        "artists_id":144, "name":"DaRang", "pixiv":["67409950"], "twitter":["hyuns_03"],
+        "tags":["Fan Art", "High Quality", "LD", "Colorful"]
+    },
+    {
+        "artists_id":145, "name":"Lianbiglian", "pixiv":["10278825"], "twitter":["lianbiglian"], "instagram":"lianbiglian", "facebook":"lianbiglian", "linktr":"lianbiglian", "youtube":"UCN8fq5W9Qnc3f0mFu3DYjJA", "artstation":"lianbiglian", "giphy":"lianbiglian", "behance":"cathitcat23de", "penker":"7490726371",
+        "tags":["Fan Art", "Colorful", "High Quality", "SD", "Cute"]
+    },
+    {
+        "artists_id":146, "name":"Dork Dragoon", "twitter":["dorkdragoon"], "youtube":"DorkDragoon",
+        "tags":["Fan Art", "Honkai : Starail", "Guilty Gear", "Arknights", "Animation", "SD", "Cute"]
+    },
+    {
+        "artists_id":147, "name":"Toganawa", "pixiv":["2915248"], "twitter":["Toganawa4815"], "adobe_portfolio":"toganawa", "homepage":"https://sinalium.net/",
+        "tags":["Fan Art", "Arknights", "Blue Archieve", "Genshin Impact", "Hololive", "LD", "High Quality", "High Quality Background"]
+    },
+    {
+        "artists_id":148, "name":"DragonChicken", "original_name":"용치킨", "pixiv":["61833067"], "twitter":["dragonchicken02"],
+        "tags":["Fan Art", "Blue Archieve", "LD", "Colorful", "Cat Girl"]
+    },
+    {
+        "artists_id":149, "name":"FTE", "pixiv":["25855728"], "twitter":["fifteen_199", "Erotic_198"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality", "Military", "Gun"]
+    },
+    {
+        "artists_id":150, "name":"Yagen", "pixiv":["39846570"], "twitter":["yagen_o3o"], "instagram":"yagen_ist",
+        "tags":["Fan Art", "Blue Archieve", "LD", "Colorful"]
+    },
+    {
+        "artists_id":151, "name":"Netural", "pixiv":["69328034"], "twitter":["netural1175"],
+        "tags":["Fan Art", "Blue Archieve", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":152, "name":"Xiujia Yihuizi", "original_name":"休嫁一慧", "pixiv":["19469841"], "twitter":["slow740"], "fanbox":"olol740",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality", "Colorful", "Busty"]
+    },
+    {
+        "artists_id":153, "name":"Toccic", "pixiv":["68304817"], "twitter":["Toccic3"], "skeb":"Toccic3",
+        "tags":["R-18", "Fan Art", "LD", "High Quality", "Colorful", "CG", "Rape", "Sex"]
+    },
+    {
+        "artists_id":154, "name":"Zakimpo", "pixiv":["15924861"], "twitter":["Zakimpo"], "instagram":"zakimpo", "youtube":"zakimpo", "fanbox":"zakimpo",
+        "tags":["Fan Art", "Hololive", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":155, "name":"Shouhin", "original_name":"商品", "pixiv":["82203720"], "twitter":["toombo12"],
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "Original Character", "High Quality", "Colorful", "LD", "Loli"]
+    },
+    {
+        "artists_id":156, "name":"Kusoge Player", "pixiv":["84491400"], "twitter":["TSCplayer"],
+        "tags":["R-18", "Fan Art", "Blue Archieve", "High Quality", "Colorful", "LD", "Korean", "Sex", "Cute"]
+    },
+    {
+        "artists_id":157, "name":"Dishui Tangni", "original_name":"滴水唐尼", "pixiv":["68247201"], "twitter":["dishuitangni"], "bilibili":"22610885",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "High Quality", "Colorful", "Busty"]
+    },
+    {
+        "artists_id":158, "name":"Heoburi", "original_name":"허부리", "pixiv":["40163021"], "twitter":["heoburi35"], "naver_blog":"ghwns0100",
+        "tags":["Fan Art", "Blue Archieve", "High Quality", "Colorful", "Cute"]
+    },
+    {
+        "artists_id":159, "name":"Minishell", "pixiv":["16696544"], "twitter":["minishell010"],
+        "tags":["R-18", "Fan Art", "Colorful", "Futanari", "Big Penis"]
+    }
+]
