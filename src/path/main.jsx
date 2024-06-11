@@ -62,7 +62,7 @@ function SearchBar(props){
     <div className='searchbar'>
         <input onKeyDown={(e) => searcher(e)} placeholder={stater ? null : props.keyword}/>
 
-        <div className="searchbtn">{search_tag}
+        <div className="searchbtn">
             <label>
                 <input type="radio" name="search_index" value="Artist" onChange={search_checke} defaultChecked/>
                 Artist
