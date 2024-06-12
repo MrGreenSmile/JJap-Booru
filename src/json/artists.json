@@ -682,7 +682,7 @@
     },
     {
         "artists_id":171, "name":"Kuro_torie", "pixiv":["101507646"], "twitter":["96torie"],
-        "tags":["Fan Art", "Blue Archieve", "LD", "High Quality","Colorful", "Busty"]
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality","Colorful", "Busty"]
     },
     {
         "artists_id":172, "name":"Arisame", "original_name":"在鮫", "pixiv":["67093918"], "twitter":["Alisame_at1", "samesame_0412"], "fanbox":"alisame-at1", "fantia":"2720599", "skeb":"Alisame_at1",
@@ -695,5 +695,29 @@
     {
         "artists_id":174, "name":"JerbearRover", "pixiv":["52186350"], "twitter":["LewdRover"], "subscribestar":"jerbeartraveler", "fanbox":"jerbeartraveler",
         "tags":["R-18", "Fan Art", "LD", "Colorful", "Manga", "Busty", "Sex", "Big Penis"]
+    },
+    {
+        "artists_id":175, "name":"Ponponnun", "original_name":"ぽんぽんぬん", "pixiv":["63107031"], "twitter":["aice9u"], "misskey":"aice9u",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "High Quality", "Sex"]
+    },
+    {
+        "artists_id":176, "name":"Ponpon", "original_name":"ぽんぽん", "pixiv":["41823920"], "twitter":["skyup920"],
+        "tags":["Fan Art", "Girls' Frontline", "Blue Archieve", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":177, "name":"Kainown", "pixiv":["1178854"], "twitter":["kainownill"], "melonbooks":"118743",
+        "tags":["NSFW", "Fan Art", "Blue Archieve", "LD", "High Quality", "Colorful"]
+    },
+    {
+        "artists_id":178, "name":"Negiuma", "original_name":"ねぎうま", "pixiv":["98113112"], "twitter":["negiumaya"], "melonbooks":"118743", "fantia":"negiumaya", "fanbox":"negiuma", "misskey":"negiuma", "skeb":"negiumaya",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "High Quality", "Colorful", "Sex"]
+    },
+    {
+        "artists_id":179, "name":"Nanatsuichi", "pixiv":["31357686"], "twitter":["IzulIzuru"], "vgen":"izulizuru", "fanbox":"nanatsu023", "patreon":"nanatsu023", "sketchmob":"IzulIzuru",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "LD", "High Quality", "Colorful", "Sex"]
+    },
+    {
+        "artists_id":180, "name":"EriChisaki", "pixiv":["85362882"],
+        "tags":["R-18", "Fan Art", "My Hero Academia", "Chisaki Eri", "SD", "Loli"]
     }
 ]

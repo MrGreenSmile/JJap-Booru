@@ -98,7 +98,7 @@ function IllustratorList(props){
                         <>
                         {console.log(index_last++)}
                         <div>
-                            <img className='illustrator-preview' src={stater + 'illust/' + temp.name + '/' + file_name} alt={file_name} key={file_name} />
+                            <img className='illustrator-preview' src={stater + 'illust/' + temp.name + '/' + file_name} alt={file_name} key={file_name} loading='lazy' />
                         </div>
                         </>
                         : null

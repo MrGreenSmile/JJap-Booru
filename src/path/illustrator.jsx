@@ -112,10 +112,10 @@ function Resources(props){
             <a href={resource} target='_blank' rel="noopener noreferrer">
             {url.includes('.mp4') ?
             <>
-                <div className={'illustrator-bio-preview-player ' + props.zoomed}><img src={PlayIcon} alt="play icon"/></div>
+                <div className={'illustrator-bio-preview-player ' + props.zoomed}><img src={PlayIcon} alt="play icon" loading='lazy' /></div>
                 <video onMouseOver={event => event.target.play()} onMouseOut={event => event.target.pause()} className={'illustrator-bio-preview ' + props.zoomed} src={'../illust/' + props.illust_name + '/' + url} alt={url} playsInline loop muted />
             </>
-            : <img className={'illustrator-bio-preview ' + props.zoomed} src={'../illust/' + props.illust_name + '/' + url} alt={url} />
+            : <img className={'illustrator-bio-preview ' + props.zoomed} src={'../illust/' + props.illust_name + '/' + url} alt={url} loading='lazy' />
             }
             </a>
         </div>
@@ -378,6 +378,11 @@ function BioLink(props){
             }{bios.vgen ?
                 <div>
                     <a href={"https://vgen.co/" + bios.vgen} target='_blank' rel='noopener noreferrer'><img src="../bio/vgen.png" alt='vgen_bio' /></a>
+                </div>
+            : null
+            }{bios.sketchmob ?
+                <div>
+                    <a href={"https://sketchmob.com/user-profile/" + bios.sketchmob} target='_blank' rel='noopener noreferrer'><img src="../bio/sketchmob.png" alt='sketchmob_bio' /></a>
                 </div>
             : null
             }{bios.etsy ?
