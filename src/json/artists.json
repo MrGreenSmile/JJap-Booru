@@ -719,5 +719,41 @@
     {
         "artists_id":180, "name":"EriChisaki", "pixiv":["85362882"],
         "tags":["R-18", "Fan Art", "My Hero Academia", "Chisaki Eri", "SD", "Loli"]
+    },
+    {
+        "artists_id":181, "name":"Nootie", "pixiv":["42896597"], "twitter":["_lilnoot"], "twitch":"nootie", "homepage":"https://www.lilnoot.com/",
+        "tags":["NSFW", "Original Character", "Fan Art", "Colorful", "LD"]
+    },
+    {
+        "artists_id":182, "name":"Satou Kuuki", "original_name":"左藤空気", "pixiv":["76712"], "twitter":["patrietta"], "fanbox":"patrietta",
+        "tags":["R-18", "Fan Art", "The Idolm@ster : Cinderella Girls", "LD", "Manga", "Netorare", "Bitch", "Corruption", "Sex"]
+    },
+    {
+        "artists_id":183, "name":"Endou Hiroto", "original_name":"遠藤弘土", "pixiv":["1539728"], "twitter":["endouhiroto2"], "fanbox":"intokuinfo", "fantia":"intokuinfo", "youtube":"intokuinfo", "homepage":"https://intoku.info/",
+        "tags":["R-18", "Original Character", "Manga", "Colorful", "High Quality", "SD", "Sex", "Loli", "Oppai Loli"]
+    },
+    {
+        "artists_id":184, "name":"Kareya", "original_name":"カレー屋", "pixiv":["266163"], "twitter":["superkareya"],
+        "tags":["R-18", "Original Character", "Cute", "SD", "Loli", "Sex"]
+    },
+    {
+        "artists_id":185, "name":"Kareya", "original_name":"彼夜", "pixiv":["31690832"], "twitter":["jixo95821699"], "facebook":"jixo95821699", "gamer":"jixo0407",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "SD", "Loli"]
+    },
+    {
+        "artists_id":186, "name":"AranK", "original_name":"彼夜", "pixiv":["18514610"], "twitter":["KAran1217893"], "fanbox":"arank",
+        "tags":["R-18", "Fan Art", "Blue Archieve", "High Quality", "Colorful", "Sex", "Busty"]
+    },
+    {
+        "artists_id":187, "name":"Arang", "original_name":"아랑", "pixiv":["7117501"], "twitter":["Arang0220"],
+        "tags":["Thumbnailer", "Fan Art", "Blue Archieve", "GangG", "SD", "Colorful", "Hanbok"]
+    },
+    {
+        "artists_id":188, "name":"Teo", "original_name":"てお", "pixiv":["15796580"], "twitter":["theobrobineMale"], "fanbox":"theobrobine", "fantia":"81477", "patreon":"theobrobine",
+        "tags":["R-18", "Fan Art", "High Quality", "Animation", "Sex", "Busty", "Big Penis"]
+    },
+    {
+        "artists_id":189, "name":"Ginkami Meteor", "original_name":"銀河味めてお", "pixiv":["98551645"], "twitter":["ginga_RS"], "fanbox":"gingars", "skeb":"ginga_RS", "fantia":"1283902",
+        "tags":["R-18", "Fan Art", "High Quality", "Manga", "Sex", "Busty", "Onee-san"]
     }
 ]

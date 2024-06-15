@@ -261,6 +261,11 @@ function BioLink(props){
                     <a href={"https://space.bilibili.com/" + bios.bilibili} target='_blank' rel='noopener noreferrer'><img src="../bio/bilibili.png" alt='bilibili_bio' /></a>
                 </div>
             : null
+            }{bios.gamer ?
+                <div>
+                    <a href={"https://home.gamer.com.tw/profile/index_feed.php?owner=" + bios.gamer} target='_blank' rel='noopener noreferrer'><img src="../bio/gamer.png" alt='gamer_bio' /></a>
+                </div>
+            : null
             }{bios.weibo ?
                 <div>
                     <a href={"https://weibo.com/" + bios.weibo} target='_blank' rel='noopener noreferrer'><img src="../bio/weibo.png" alt='weibo_bio' /></a>
