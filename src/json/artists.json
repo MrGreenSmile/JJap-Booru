@@ -755,5 +755,13 @@
     {
         "artists_id":189, "name":"Ginkami Meteor", "original_name":"銀河味めてお", "pixiv":["98551645"], "twitter":["ginga_RS"], "fanbox":"gingars", "skeb":"ginga_RS", "fantia":"1283902",
         "tags":["R-18", "Fan Art", "High Quality", "Manga", "Sex", "Busty", "Onee-san"]
+    },
+    {
+        "artists_id":190, "name":"Muine", "original_name":"무이네", "pixiv":["9511689"], "twitter":["muine2096"],
+        "tags":["Fan Art", "Umamusume", "Trickcal", "Manga", "SD"]
+    },
+    {
+        "artists_id":191, "name":"Ruozhishichujian", "original_name":"若只是初见", "pixiv":["13697312"],
+        "tags":["NSFW", "Fan Art", "Honkai 3rd", "Busty", "Slender"]
     }
 ]
