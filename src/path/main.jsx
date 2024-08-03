@@ -52,14 +52,13 @@ function SearchBar(props){
     function searcher(event){
         switch(event.keyCode){
             case 13:        //enter
-                event.target.value.length === 0 ?
-                    window.location.href = stater ? "search/" + search_tag + "&" + props.keyword : search_tag + "&" + props.keyword
-                : window.location.href = stater ? "search/" + search_tag + "&" + event.target.value : search_tag + "&" + event.target.value
+                window.location.href = stater ? "search/" + search_tag + "&" + event.target.value : search_tag + "&" + event.target.value
             break
             default:
         }
     }
 
+    
     return(
     <div className='searchbar'>
         <input onKeyDown={(e) => searcher(e)} placeholder={stater ? null : props.keyword}/>

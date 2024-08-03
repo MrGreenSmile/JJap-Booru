@@ -50,38 +50,39 @@ function Searcher(props){
         <div className="container">
             <SearchBar keyword={keyword} stater={stater} />
 
+
             {[...Artist].map((artist) =>
-                category === "Artist" ? artist.name.toLowerCase().includes(keyword.toLowerCase()) : artist.tags.map(tag => tag.toUpperCase()).includes(keyword.toUpperCase()) ?
+                (category === "Artist" ? artist.name.toLowerCase().includes(keyword.toLowerCase()) : artist.tags.map(tag => tag.toUpperCase()).includes(keyword.toUpperCase())) ?
                     r18_state && artist.tags.includes('R-18') ?
                         <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                     : !artist.tags.includes('R-18') ? <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                 : null
             : null
             )}
-            {category === "Artist" ? [...Artist].map((artist) =>
-                category === "Artist" ? solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] === 100 : null?
+            {[...Artist].map((artist) =>
+                solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] === 100 ?
                     r18_state && artist.tags.includes('R-18') ?
                         <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                     : !artist.tags.includes('R-18') ? <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                 : null
             : null
-            ) :null}
-            {category === "Artist" ? [...Artist].map((artist) =>
-                category === "Artist" ? solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] > 100 : null ?
+            )}
+            {/*[...Artist].map((artist) =>
+                solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] > 100  ?
                     r18_state && artist.tags.includes('R-18') ?
                         <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                     : !artist.tags.includes('R-18') ? <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                 : null
             : null
-            ) :null}
-            {category === "Artist" ? [...Artist].map((artist) =>
-                category === "Artist" ? solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] < 100 && solution(keyword, artist.name)[1] > 60 : null ?
+            )}
+            {[...Artist].map((artist) =>
+                solution(keyword, artist.name)[0] && solution(keyword, artist.name)[1] < 100 && solution(keyword, artist.name)[1] > 60  ?
                     r18_state && artist.tags.includes('R-18') ?
                         <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                     : !artist.tags.includes('R-18') ? <IllustratorList artist={artist} illust={props.Illust} key={artist.name} />
                 : null
             : null
-            ) :null}
+            )*/}
         </div>
     )
 }
